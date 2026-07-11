@@ -47,11 +47,11 @@ The LEVIR-MCI dataset can be downloaded from:
 
 [LEVIR-MCI Dataset](https://huggingface.co/datasets/lcybuaa/LEVIR-MCI/tree/main)
 
-### 2. WHU-CD Dataset
+### 2. WHU-CDC Dataset
 
-The WHU-CD dataset can be downloaded from:
+The WHU-CDC dataset can be downloaded from:
 
-[WHU-CD Dataset](https://www.kaggle.com/datasets/yuehaozhang1109/whu-cdc)
+[WHU-CDC Dataset](https://www.kaggle.com/datasets/yuehaozhang1109/whu-cdc)
 
 
 Dataset structure:
