@@ -57,7 +57,7 @@ The WHU-CDC dataset can be downloaded from:
 Dataset structure:
 
     -/DATA_PATH_ROOT/Levir-MCI-dataset/
-    ├─LevirCCcaptions.json
+    ├─Ccaptions.json
     ├─images
       ├── train
       │     ├── A
